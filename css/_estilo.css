@@ -1,0 +1,20 @@
+#container{
+    width:400px;
+    height:200px;
+    /*background-color:greenyellow;*/
+    background-image: url('../Imagens/background.png');
+    background-repeat: no-repeat;
+    background-size: 400px 200px;
+}
+#li-ins{
+    list-style-image: url(../Imagens/Insta.png);
+}
+#li-twi{
+    list-style-image: url(../Imagens/Twitter.png);
+}
+#li-tube{
+    list-style-image: url(../Imagens/Youtube.png);
+}
+.none{
+    list-style-type: none;
+}

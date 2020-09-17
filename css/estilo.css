@@ -1,0 +1,20 @@
+#container{
+    width:400px;
+    height:200px;
+    /*background-color:greenyellow;*/
+    background-image: url('../Imagens/background.png');
+    background-repeat: no-repeat;
+    background-size: 400px 200px;
+}
+#li-ins{
+    list-style-image: url(../Imagens/git2.png);
+}
+#li-twi{
+    list-style-image: url(../Imagens/linkdin.png);
+}
+#li-tube{
+    list-style-image: url(../Imagens/mail.png);
+}
+.none{
+    list-style-type: none;
+}
